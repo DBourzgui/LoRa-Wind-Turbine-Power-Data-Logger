@@ -9,7 +9,7 @@
  * (V) and analog pin 1 (I). Power is calculated from results and all values
  * are printed to the LCD, updating every second. A voltage error offset is 
  * used to achieve an average percent error of ~0.74% from 0V to 16V and ~0.15%
- * from 3V to 16V. Can read up to approximately 134.4V before over-voltage 
+ * from 3V to 16V. Can read up to approximately 33.5V before over-voltage 
  * protection kicks in and up to +50A DC for current sensing (Max 6.72kW). 
  * Intended use is for measuring power delivered to a battery bank for a 12V 500W 
  * small scale wind turbine. Data is written to a CSV file and stored on an SD card. 
